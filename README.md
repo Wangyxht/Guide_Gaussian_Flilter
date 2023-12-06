@@ -51,6 +51,6 @@
 #### 原图
 ![before_GS.png](output/test/before_GS.png)
 #### GS
-![after_GS.png](output/test/before_GS.png)
+![after_GS.png](output/test/after_GS.png)
 #### GGF
-![after_GGF.png](output/test/before_GS.png)
+![after_GGF.png](output/test/after_GGF.png)
